@@ -7,4 +7,7 @@ Role: Collaborator
 Environment: WSL/VM
 
 Account A: Setup and initial structure
-Account B: Review and additional contributions
+ccount B: Review and additional contributions
+
+- GitHub: yourA
+- GitHub: yourB
